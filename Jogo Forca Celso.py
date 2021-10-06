@@ -3,6 +3,8 @@
 Spyder Editor
 
 This is a temporary script file.
+
+This code was made by Celso
 """
 
 palavra = str(input("Digite a palavra: "))
